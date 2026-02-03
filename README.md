@@ -1,2 +1,2 @@
-# tic-tac-toe-game
-A React-based Tic-Tac-Toe game is an interactive web application that implements the classic two-player game on a 3x3 grid. Built using functional components and React Hook
+# tic-tac-toe
+A React-based Tic-Tac-Toe game is an interactive, browser-based application that allows two players to play the classic 3x3 grid game using 'X's and 'O's.
